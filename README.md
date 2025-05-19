@@ -80,8 +80,6 @@ Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Elec
   </a>
 </p>
 
----
-
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=CristianOlarte&icon=3&color=FF69B4)](https://visitcount.itsvg.in)
 </div>
