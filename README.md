@@ -51,7 +51,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block; color: white;">Technologías que conozco 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block; color: white;">Tecnologías que conozco 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -70,19 +70,23 @@
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
-  <a href="mailto:cyt81270@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Gmail" height="50" width="50" />
+  <!-- GIF decorativo: reemplaza la URL por tu GIF favorito -->
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Kawaii GIF" width="200" />
+</p>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@tu_usuario" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/tu_usuario" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
+  <a href="https://www.instagram.com/tu_usuario" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/tu_usuario" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Facebook" height="50" width="50" />
+  <a href="https://www.facebook.com/tu_usuario" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://www.tiktok.com/@tu_usuario" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="TikTok" height="50" width="50" />
+  <a href="mailto:cyt81270@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
 
@@ -97,4 +101,4 @@
 ---
 
 **Credit:** [Cristian Olarte](https://github.com/CristianOlarte)  
-**Last Edited on:** 19/05/2025
+**Last Edited on:** 19/05/2025  
