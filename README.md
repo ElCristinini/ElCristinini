@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">¡Hola 👋, soy Cristian Olarte!</h1></summary>
+    <summary><h1 style="display: inline-block; color: white;">¡Hola 👋, soy Cristian Olarte!</h1></summary>
   </ul>
 </div>
 
@@ -16,7 +16,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
+    <summary><h2 style="display: inline-block; color: white;">La confusión es parte de la programación</h2></summary>
   </ul>
 </div>
 
@@ -24,7 +24,7 @@
 - 🔭 Actualmente estudio **Ingeniería de Telecomunicaciones** (6° semestre) en la Universidad Santo Tomás.  
 - 🌱 Tengo 21 años y mi formación es de bachiller, con pasión por la **electrónica**, la **robótica** y el desarrollo de **chatbots kawaii**.  
 - ⚡ Mis lenguajes favoritos: **Python** y **C++**.  
-- 🤖 He trabajado en un **Chatbot Kawaii en Terminal Ubuntu** y en el **control de Robot Pepper** usando Python y ROS.  
+- 🤖 He trabajado en un **Chatbot Kawaii en Terminal Ubuntu** y en el **control de Robot Pepper** usando Python.  
 - 🎮 Me encanta jugar videojuegos y ver series de anime en mis ratos libres.  
 - 📫 Contáctame en: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)  
 <!--Intro end-->
@@ -32,20 +32,17 @@
 <!--‑‑‑ stats & trophy (start) -->
 <p align="center">
 
-### 📊 Estadísticas inventadas
+### 📊 Estadísticas de GitHub
 
-| Métrica                       | Valor     |
-|-------------------------------|-----------|
-| 🗂️ Repositorios públicos      | 8         |
-| 🔧 Proyectos destacados       | 2         |
-| 💻 Commits totales            | 145       |
-| 📈 Contribuciones este mes    | 30        |
-| 🥇 Lenguaje Top               | Python (70%) |
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianOlarte&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianOlarte&layout=compact&theme=dark" alt="Top languages" />
+</p>
 
 ### 🏆 Trophy Showcase
 
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=CristianOlarte&theme=radical&no-bg=true&row=1&column=4" alt="Trophy" />
+  <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=CristianOlarte&theme=dark&row=1&column=4&no-bg=true" alt="TROPHY" />
 </div>
 
 </p>
@@ -54,14 +51,14 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologías que conozco 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block; color: white;">Technologías que conozco 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,linux,ros,github&perline=5" alt="tech icons" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,linux,github&perline=4" alt="tech icons" />
   </a>
 </p>
 
@@ -69,7 +66,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block; color: white;">Conéctate conmigo 🤝</h2></summary>
   </ul>
 </div>
 
