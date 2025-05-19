@@ -11,9 +11,9 @@
 
 <h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
 
----
 
-## / about me /
+
+## / Sobre mi /
 
 - ⭐ Tengo **21 años** y estudio **Ingeniería de Telecomunicaciones** (6° semestre) en la Universidad Santo Tomás.  
 - 🎓 Formación: **Bachiller** con pasión por la **electrónica**, **robótica** y **programación**.  
@@ -22,7 +22,7 @@
 - 🎮 Aficiones: videojuegos, series de anime y explorar nuevas tecnologías.  
 - 📫 Contáctame: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)
 
----
+
 
 ## Profile
 
