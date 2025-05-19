@@ -1,17 +1,25 @@
 
-
+<!--horizontal divider(gradient)-->
 <p align="center">
   <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
 </p>
 
+<!-- Big Side Image (Shimarin) -->
 <div align="right">
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </div>
 
+<!-- Profile Header -->
+<div align="center">
+  <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
+    <img src="https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true" alt="Demo Image" />
+  </a>
+</div>
 
+<!-- Title -->
 <h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
 
-
+---
 
 ## / about me /
 
@@ -22,7 +30,7 @@
 - 🎮 Aficiones: videojuegos, series de anime y explorar nuevas tecnologías.  
 - 📫 Contáctame: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)
 
-
+---
 
 ## Profile
 
@@ -79,6 +87,8 @@ Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Elec
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
   </a>
 </p>
+
+---
 
 <div align="center">
   [![](https://visitcount.itsvg.in/api?id=CristianOlarte&icon=3&color=FF69B4)](https://visitcount.itsvg.in)
