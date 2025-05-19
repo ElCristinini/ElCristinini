@@ -4,20 +4,20 @@
   <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
 </p>
 
-<!-- Big Side Image (Shimarin) -->
-<div align="right">
-  <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-</div>
-
-<!-- Profile Header -->
+<!-- Profile and Side Image -->
 <div align="center">
-  <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
-    <img src="https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true" alt="Demo Image" />
-  </a>
+  <h2>Profile</h2>
+  <div align="right">
+    <img width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png" />
+  </div>
 </div>
 
-<!-- Title -->
-<h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
+Property                  | Data  
+--------------------------|------------------------------------------------  
+Edad / Universidad        | ![Edad Badge](https://img.shields.io/badge/21%20años-Universidad%20Santo%20Tom%C3%A1s-FF69B4?style=flat&logo=university&logoColor=white)  
+Lenguajes Dominados       | ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat&logo=c%2B%2B&logoColor=white)  
+Frameworks & Herramientas | ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=flat&logo=ubuntu&logoColor=white)  
+Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Electrónica-FF69B4?style=flat) ![Robótica](https://img.shields.io/badge/Robótica-FF69B4?style=flat)
 
 ---
 
@@ -29,17 +29,6 @@
 - 🤖 Proyectos destacados: **Chatbot Kawaii en Terminal Ubuntu** y **Control de Robot Pepper**.  
 - 🎮 Aficiones: videojuegos, series de anime y explorar nuevas tecnologías.  
 - 📫 Contáctame: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)
-
----
-
-## Profile
-
-Property                  | Data  
---------------------------|------------------------------------------------  
-Edad / Universidad        | ![Edad Badge](https://img.shields.io/badge/21%20años-Universidad%20Santo%20Tom%C3%A1s-FF69B4?style=flat&logo=university&logoColor=white)  
-Lenguajes Dominados       | ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat&logo=c%2B%2B&logoColor=white)  
-Frameworks & Herramientas | ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=flat&logo=ubuntu&logoColor=white)  
-Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Electrónica-FF69B4?style=flat) ![Robótica](https://img.shields.io/badge/Robótica-FF69B4?style=flat)
 
 ---
 
