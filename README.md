@@ -76,14 +76,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@tu_usuario" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.tiktok.com/@holaygra" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/tu_usuario" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/cristianolarteg?igsh=b282a2Y5ajJqOW16" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/tu_usuario" target="_blank" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="mailto:cyt81270@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" height="40" width="40" />
