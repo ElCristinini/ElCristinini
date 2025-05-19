@@ -1,4 +1,4 @@
-```markdown
+
 <!--horizontal divider(gradient)-->
 <p align="center">
   <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
