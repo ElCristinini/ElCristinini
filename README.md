@@ -1,7 +1,13 @@
+```markdown
 <!--horizontal divider(gradient)-->
 <p align="center">
   <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
 </p>
+
+<!-- Big Side Image (Shimarin) -->
+<div align="right">
+  <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+</div>
 
 <!-- Profile Header -->
 <div align="center">
@@ -30,7 +36,7 @@
 
 Property                  | Data  
 --------------------------|------------------------------------------------  
-Edad / Universidad        | ![Edad Badge](https://img.shields.io/badge/21%20años-Universidad%20Santo%20Tomás-FF69B4?style=flat&logo=university&logoColor=white)  
+Edad / Universidad        | ![Edad Badge](https://img.shields.io/badge/21%20años-Universidad%20Santo%20Tom%C3%A1s-FF69B4?style=flat&logo=university&logoColor=white)  
 Lenguajes Dominados       | ![Python](https://img.shields.io/badge/Python-FF69B4?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=flat&logo=c%2B%2B&logoColor=white)  
 Frameworks & Herramientas | ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF69B4?style=flat&logo=ubuntu&logoColor=white)  
 Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Electrónica-FF69B4?style=flat) ![Robótica](https://img.shields.io/badge/Robótica-FF69B4?style=flat)
@@ -91,4 +97,5 @@ Electrónica & Robótica     | ![Electrónica](https://img.shields.io/badge/Elec
 ---
 
 **Credit:** [Cristian Olarte](https://github.com/CristianOlarte)  
-**Last Edited on:** 19/05/2025  
+**Last Edited on:** 19/05/2025
+```
