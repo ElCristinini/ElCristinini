@@ -13,7 +13,7 @@
 
 
 
-## / Sobre mi /
+## / about me /
 
 - ⭐ Tengo **21 años** y estudio **Ingeniería de Telecomunicaciones** (6° semestre) en la Universidad Santo Tomás.  
 - 🎓 Formación: **Bachiller** con pasión por la **electrónica**, **robótica** y **programación**.  
