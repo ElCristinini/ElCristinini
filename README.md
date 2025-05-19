@@ -1,15 +1,14 @@
 
-<!--horizontal divider(gradient)-->
+
 <p align="center">
   <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
 </p>
 
-<!-- Big Side Image (Shimarin) -->
 <div align="right">
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </div>
 
-<!-- Title -->
+
 <h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
 
 ---
