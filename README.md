@@ -11,12 +11,14 @@
 </div>
 
 <!-- Big Side Image (Shimarin) - Movida aquí -->
-<div align="right">
+<div align="right" style="position: relative; z-index: 10;">
   <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </div>
 
 <!-- Title -->
 <h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
+
+<div style="clear: right; margin-right: 420px;">
 
 ---
 
@@ -28,6 +30,8 @@
 - 🤖 Proyectos destacados: **Chatbot Kawaii en Terminal Ubuntu** y **Control de Robot Pepper**.  
 - 🎮 Aficiones: videojuegos, series de anime y explorar nuevas tecnologías.  
 - 📫 Contáctame: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)
+
+</div>
 
 ---
 
