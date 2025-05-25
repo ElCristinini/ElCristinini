@@ -1,8 +1,3 @@
-<!--horizontal divider(gradient)-->
-<p align="center">
-  <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
-</p>
-
 <!-- Profile Header -->
 <div align="center">
   <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
