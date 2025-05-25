@@ -1,3 +1,8 @@
+<!--horizontal divider(gradient)-->
+<p align="center">
+  <img src="https://i.imgur.com/x6qU1kR.png" alt="Header Image" />
+</p>
+
 <!-- Profile Header -->
 <div align="center">
   <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
@@ -5,15 +10,13 @@
   </a>
 </div>
 
-<!-- Big Side Image (Shimarin) - Movida aquí -->
-<div align="right" style="position: relative; z-index: 10;">
-  <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-</div>
-
 <!-- Title -->
 <h1 align="center" style="color:#FF69B4;">¡Hola 👋, soy Cristian Olarte!</h1>
 
-<div style="clear: right; margin-right: 420px;">
+<!-- Content with image layout -->
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ---
 
@@ -26,7 +29,15 @@
 - 🎮 Aficiones: videojuegos, series de anime y explorar nuevas tecnologías.  
 - 📫 Contáctame: [cyt81270@gmail.com](mailto:cyt81270@gmail.com)
 
-</div>
+</td>
+<td width="40%" valign="top">
+
+<!-- Big Side Image (Shimarin) -->
+<img width="100%" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
